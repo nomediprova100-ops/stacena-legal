@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Stacena</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 24px;
+      color: #1A003D;
+      background: #F0E8D8;
+      line-height: 1.7;
+    }
+    h1 {
+      font-family: Georgia, serif;
+      font-size: 28px;
+      font-weight: 400;
+      color: #1A003D;
+      margin-bottom: 4px;
+    }
+    h2 {
+      font-family: Georgia, serif;
+      font-size: 18px;
+      font-weight: 400;
+      color: #1A003D;
+      margin-top: 36px;
+    }
+    .subtitle {
+      color: #8877AA;
+      font-style: italic;
+      font-size: 14px;
+      margin-bottom: 40px;
+    }
+    p, li {
+      font-size: 15px;
+      color: #1A003D;
+    }
+    a {
+      color: #FF8C00;
+    }
+    .aggiornato {
+      font-size: 12px;
+      color: #8877AA;
+      margin-top: 48px;
+      border-top: 1px solid #E8E0F0;
+      padding-top: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Stacena</h1>
+  <p class="subtitle">Privacy Policy</p>
+
+  <p>Stacena è un'app per iOS che suggerisce ricette italiane in base agli ingredienti che hai in casa. Questa privacy policy descrive quali dati raccogliamo, come li usiamo e quali diritti hai come utente.</p>
+
+  <h2>1. Dati che raccogliamo</h2>
+  <p>Stacena raccoglie il minimo indispensabile per funzionare:</p>
+  <ul>
+    <li><strong>Ingredienti del frigo</strong> — la lista degli ingredienti che inserisci manualmente o tramite foto. Questi dati vengono salvati localmente sul tuo dispositivo e non vengono trasmessi ai nostri server.</li>
+    <li><strong>Preferenze del profilo</strong> — informazioni opzionali che fornisci su di te e sulla tua famiglia (es. numero di persone, preferenze alimentari). Anche questi dati rimangono sul tuo dispositivo.</li>
+    <li><strong>Dati di acquisto</strong> — se sottoscrivi un piano a pagamento, i dati della transazione vengono gestiti da RevenueCat e dal sistema di pagamento Apple. Stacena non vede né memorizza i dati della tua carta di credito.</li>
+  </ul>
+
+  <h2>2. Fotografie del frigo</h2>
+  <p>Se scegli di fotografare il frigo, le immagini vengono inviate in modo sicuro all'API di Anthropic (Claude) per l'analisi degli ingredienti. Le immagini vengono trasmesse esclusivamente per questo scopo e non vengono memorizzate da Stacena. Anthropic gestisce i dati secondo la propria <a href="https://www.anthropic.com/privacy" target="_blank">privacy policy</a>.</p>
+  <p>L'analisi fotografica è una funzionalità opzionale — puoi usare Stacena inserendo gli ingredienti manualmente senza mai scattare una foto.</p>
+
+  <h2>3. Pagamenti</h2>
+  <p>I pagamenti in-app sono gestiti da RevenueCat e dal sistema di acquisti Apple. Stacena non raccoglie né conserva dati di pagamento. Per maggiori informazioni consulta la <a href="https://www.revenuecat.com/privacy" target="_blank">privacy policy di RevenueCat</a> e le condizioni Apple.</p>
+
+  <h2>4. Dati che non raccogliamo</h2>
+  <p>Stacena non raccoglie:</p>
+  <ul>
+    <li>Dati di localizzazione</li>
+    <li>Contatti o dati del calendario</li>
+    <li>Dati di navigazione o comportamento nell'app</li>
+    <li>Identificatori pubblicitari</li>
+    <li>Dati condivisi con terze parti per scopi pubblicitari</li>
+  </ul>
+
+  <h2>5. Dove sono conservati i tuoi dati</h2>
+  <p>Tutti i dati personali (ingredienti, preferenze, ricette salvate) sono conservati localmente sul tuo dispositivo tramite Hive, un database locale. Non vengono sincronizzati su server esterni né condivisi con Stacena o terze parti.</p>
+
+  <h2>6. I tuoi diritti</h2>
+  <p>Puoi cancellare tutti i dati salvati da Stacena in qualsiasi momento dalla schermata Profilo → Cancella dati. Questa operazione è irreversibile e rimuove tutte le informazioni salvate localmente.</p>
+
+  <h2>7. Bambini</h2>
+  <p>Stacena non è destinata a bambini di età inferiore ai 13 anni. Non raccogliamo consapevolmente dati personali di minori.</p>
+
+  <h2>8. Modifiche a questa policy</h2>
+  <p>Potremmo aggiornare questa privacy policy in futuro. Le modifiche significative verranno comunicate tramite aggiornamento dell'app. La data dell'ultimo aggiornamento è indicata in fondo a questa pagina.</p>
+
+  <h2>9. Contatti</h2>
+  <p>Per qualsiasi domanda sulla privacy puoi scriverci a: <a href="mailto:privacy@stacena.app">privacy@stacena.app</a></p>
+
+  <p class="aggiornato">Ultimo aggiornamento: Giugno 2026</p>
+
+</body>
+</html>
